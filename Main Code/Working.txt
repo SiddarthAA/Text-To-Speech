@@ -1,0 +1,9 @@
+1) Install Modules
+2) Run Main.py 
+3) Option1 - Text Given As String Input 
+   Option2 - Text Given As .txt File 
+4) Speech Languages Include : 
+   1| English  4| Tamil
+   2| Hindi    5| Telugu
+   3| Kannada  6| Malayalam
+5) An Audio File Will Be Saved As Speech.mp3 With The Output Audio
