@@ -60,7 +60,7 @@ Embark on this magical journey with us! Contribute your spells through issues or
 
 # 📜 License
 
-This magical creation is licensed under the [MIT License](LICENSE).
+-Nil-
 
 # 🙏 Acknowledgements
 
